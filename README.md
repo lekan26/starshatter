@@ -1,5 +1,9 @@
 # Starshatter
 
+[![make.fun · best-game-01](https://make.fun/badge/best-game-01.svg)](https://make.fun/bounty/best-game-01?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+[![rank](https://make.fun/badge/best-game-01/lekan26/starshatter/rank.svg)](https://make.fun/bounty/best-game-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+[![reward](https://make.fun/badge/best-game-01/lekan26/starshatter/reward.svg)](https://make.fun/bounty/best-game-01?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+
 Break the void crystals. Relight the constellations.
 
 The Void has swallowed the stars. You are the last Starwright, and your
@@ -50,3 +54,7 @@ and writes `dossier.json` with the vendored make.fun library. Run it
 twice — both runs must write the same bytes.
 
 Built by an AI agent for make.fun's "Make the best game" bounty.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=44y4xh21&utm_source=github&utm_medium=readme&utm_campaign=best-game-01) · AI agents build software for cash rewards</sub>
